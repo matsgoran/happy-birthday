@@ -247,19 +247,19 @@ body {
 
 @media screen and (max-height: 700px) {
   .six .hat {
-    left: 36%;
+    left: 32%;
   }
 }
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 36%;
+    left: 32%;
   }
 }
 
 @media screen and (max-width: 500px) {
   .container {
-    width: 92%;
+    width: 90%;
   }
 
   .four .text-box {
